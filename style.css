@@ -1,0 +1,26 @@
+.main{
+    width: 50%;
+    height: 50vh;
+    background-color: aqua;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    
+}
+button{
+    padding: 10px 25px;
+    font-size: 1.5rem;
+    background-color: rosybrown;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center     ;
+}
+#reset{
+    padding: 5px 10px;
+    margin-left: 2rem;
+}
